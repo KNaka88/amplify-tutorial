@@ -1,0 +1,5 @@
+amplify
+dist
+node_modules
+.amplifyrc
+.graphqlconfig.yml
